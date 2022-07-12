@@ -9,6 +9,8 @@ public class Usuario {
     private String usuario;
     private String password;
     
+    //gustavo angel arroyo gutierrez
+    
     public Usuario(){
         
     }
