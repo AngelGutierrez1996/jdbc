@@ -10,6 +10,7 @@ public class Usuario {
     private String password;
     
     //gustavo angel arroyo gutierrez
+    //Prueba jdcb desde GitHub
     
     public Usuario(){
         
